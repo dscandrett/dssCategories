@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        self.dss_showErrorAlert(NSError.dss_errorWithDomain("com.test.testing", code: 420, localizedDescription:"Hello! This is an test error."));
     }
 
     override func didReceiveMemoryWarning() {

@@ -33,9 +33,7 @@
     NSArray* nibViews = [[NSBundle mainBundle] loadNibNamed:name 
                                                       owner:anOwner
                                                     options:nil];
-    
     UIView* myView = (UIView *)[nibViews objectAtIndex:0];
-    
     return myView;
 }
 
