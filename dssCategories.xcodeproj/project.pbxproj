@@ -202,6 +202,7 @@
 		915C683F1ABF3852009FBE33 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0620;
 				ORGANIZATIONNAME = dssDigital;
 				TargetAttributes = {
@@ -461,6 +462,7 @@
 				915C68681ABF3852009FBE33 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		915C68691ABF3852009FBE33 /* Build configuration list for PBXNativeTarget "dssCategoriesTests" */ = {
 			isa = XCConfigurationList;
@@ -469,6 +471,7 @@
 				915C686B1ABF3852009FBE33 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
